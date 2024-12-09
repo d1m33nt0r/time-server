@@ -1,22 +1,18 @@
-const https = require("https");
-const fs = require("fs");
-const express = require("express");
-
+const fs = require('fs');
+const https = require('https');
+const express = require('express');
 const app = express();
 
-// Завантажуємо сертифікат
 const options = {
-  key: fs.readFileSync("/etc/letsencrypt/live/gamerstash.pp.ua/privkey.pem"),
-  cert: fs.readFileSync("/etc/letsencrypt/live/gamerstash.pp.ua/fullchain.pem"),
+    key: fs.readFileSync('/etc/letsencrypt/live/cupforcetime.pp.ua/privkey.pem'),
+    cert: fs.readFileSync('/etc/letsencrypt/live/cupforcetime.pp.ua/fullchain.pem')
 };
 
-// Маршрут для отримання часу
-app.get("/", (req, res) => {
+app.get('/', (req, res) => {
   const unixTimestamp = Math.floor(Date.now() / 1000);
   res.json({ unixTimestamp });
 });
 
-// Запускаємо HTTPS сервер
-https.createServer(options, app).listen(8000, () => {
-  console.log("HTTPS сервер запущено на порті 8000");
+https.createServer(options, app).listen(443, () => {
+    console.log('Server running on https://cupforcetime.pp.ua');
 });
