@@ -17,6 +17,6 @@ app.get("/", (req, res) => {
 });
 
 // Запускаємо HTTPS сервер
-https.createServer(options, app).listen(443, () => {
-  console.log("HTTPS сервер запущено на порті 443");
+https.createServer(options, app).listen(8000, () => {
+  console.log("HTTPS сервер запущено на порті 8000");
 });
