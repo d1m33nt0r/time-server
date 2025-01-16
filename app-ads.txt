@@ -1,4 +1,9 @@
 google.com, pub-8482915708082945, DIRECT, f08c47fec0942fa0
+
+
+facebook.com, 1058884639329547, RESELLER, c3e20eee3f780d68
+
+
 applovin.com, 22b69b211c901a63dad7a56f7b9e715c, DIRECT
 algorix.co, 60532, RESELLER, 5b394c12fea27a1d
 contextweb.com , 562615, RESELLER, 89ff185a4c4e857c
@@ -36,8 +41,6 @@ xandr.com, 13799, RESELLER
 xandr.com, 14082, RESELLER
 yieldmo.com, 3591550211052216798, RESELLER, 6a92c77cfc3d2258
 zmaticoo.com, 5135655, RESELLER
-
-
 
 
 lijit.com, 511365, RESELLER, fafdf38b16bf6b2b
