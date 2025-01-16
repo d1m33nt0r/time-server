@@ -1,0 +1,140 @@
+Privacy Policy
+
+Gamer Stash Privacy Policy
+
+Gamer Stash is an international entertainment company specializing in the publishing of mobile games and applications.
+
+The purpose of this policy is to provide you with all the important information and explanations about how and why some of your data may be collected and processed by Gamer Stash when you use one of our applications or browse our website. This privacy policy governs and details the main principles that Gamer Stash applies to the data we collect and process to: develop, publish, and monetize mobile games and applications.
+
+Should you have any questions related to this policy or our practices around privacy and data protection in general, please don’t hesitate to contact Gamer Stash’s Data Protection Officer as indicated in the contact section of this policy.
+
+************************************************************************************************************
+
+Why does Gamer Stash collect data from its apps and games?
+
+When you use the Gamer Stash Apps and Games, we will collect information about you. Such information, also known as “personal data,” can be automatically collected by Gamer Stash when necessary or voluntarily submitted by you. We use this data to provide you with the app or game you downloaded, ensure safety, and for other purposes described below (for instance, advertising).
+
+When you install and use Gamer Stash Apps and Games, we may collect and process some of your data for different legitimate purposes.
+
+You will find below explanations regarding the reasons why Gamer Stash may collect data and the legal bases we rely on in each case.
+
+************************************************************************************************************
+
+Gamer Stash collects data to:
+
+Provide you with the services you requested
+
+Example: Knowing that you completed the first level to allow access to the second one.
+
+Legal basis: Gamer Stash’s legitimate interest. Such data processing is strictly necessary for the service(s) requested.
+
+Run analytics and understand how users interact with our products and services to continuously improve them
+
+Example: Identifying that a feature is annoying for users or that a level is too difficult for most gamers.
+
+************************************************************************************************************
+
+Legal basis for first-party analytics: Legitimate interest. Gamer Stash collects user data for its internal analytics tools. This data is used solely for Gamer Stash’s analytics and is not shared with third parties.
+
+Serve advertising tailored to the preferences and interests of our users and allow Gamer Stash to continue to provide free services and products
+
+************************************************************************************************************
+
+What data does Gamer Stash collect from its apps and games?
+
+Gamer Stash does not use any data that directly identifies you. We only collect mobile identifiers and other technical information (if necessary) that allow us to recognize your device.
+
+For the purposes listed above, the data Gamer Stash collects is limited to:
+
+The apps you are using
+
+Your IP address
+
+Your Mobile Advertising ID (e.g., Apple IDFA or Google AAID) and device identifier (e.g., IDFV for iOS devices and Android ID for Android devices)
+
+Information about the device you use and your connection (user agent, type of connection, timestamp, system language, device model, screen resolution and settings, battery level, available storage space, time zone, OS)
+
+Data pertaining to your activities on our applications and the way you interact with our applications (e.g., how and when you use our applications) and with advertising (e.g., number of ads served, potential clicks)
+
+In some Gamer Stash apps and games, you may choose to log in to your account with a third-party service (Google or Apple) to improve your experience (sync your progress across devices, secure your progress, restore progress, etc.). In such cases, we may collect and securely store your email address (in a hashed format) within our database for account recovery and customer support purposes only. With your consent, we may use your email address to keep you informed of updates and offers related to the app or game.
+
+************************************************************************************************************
+
+With whom may your data be shared & why?
+
+We are not selling your personal information but need to share it with third parties to deliver the best service possible. We ensure they use the same degree of care as we do.
+
+Gamer Stash does not share your personal data with third parties without your prior consent in countries where user consent is required by applicable laws and regulations.
+
+************************************************************************************************************
+
+
+When you consent to data collection for advertising and analytics purposes, we may share the data listed above with the following categories of recipients:
+
+Gamer Stash does not share your personal data with third parties without your prior consent in the countries where collecting users’ consent may be required by applicable laws and regulations.
+
+When you consent to the collection of data for advertising and analytics purpose, we may share the data listed above with the following categories of recipients:
+
+Ad Partners: that allow us to monetize the ad inventory of our apps and provide users with free products and services.
+
+Those partners usually collect data via their own tools (Software Development Kits or “SDK”). You will find a list of our partners implementing advertising SDKs through our applications and the privacy policies of their services that describe their practices and allow you to exercise your rights directly toward them hereafter:
+
+AdColony - https://www.adcolony.com/privacy-policy/
+
+AppLovin - https://www.applovin.com/privacy/
+
+Facebook - https://www.facebook.com/about/privacy
+
+Google AdMob - https://policies.google.com/privacy?hl=en
+
+InMobi - https://www.inmobi.com/privacy-policy/
+
+IronSource - https://developers.ironsrc.com/ironsour ce-mobile/air/ironsource-mobile-privacy-policy/
+
+Unity Ads - https://unity3d.com/legal/privacy-policy
+
+Analytic companies: that provide us with tools and technologies that allow us to better understand how users interact with our services and will help us improve it. Those partners also usually collect data via their own SDKs. You will find a list of our partners implementing analytical SDKs through our applications hereafter:
+
+Crashlytics - https://policies.google.com/privacy
+
+Firebase - https://policies.google.com/privacy
+
+Authorities: Only when required by applicable laws and regulations.
+
+Security and other important information
+
+How long does Gamer Stash keep your data?
+
+Personal data collected, received, and processed for the purposes described in this policy is not kept longer than necessary. Gamer Stash does not retain user-level data for more than 13 months except for first-party analytics data, which can be stored for up to 25 months.
+
+Children’s data
+
+Gamer Stash does not knowingly collect personal data from children under 16 years of age. If you are under 16, please do not use Gamer Stash Apps and Games.
+
+International transfers
+
+Some partners and processors referred to in this policy are located outside of the European Union. In such cases, we ensure appropriate safeguards, such as standard contractual clauses, are in place.
+
+What rights do you have?
+
+Your personal information belongs to you. You can contact us at gam3rstashinfo@gmail.com at any time.
+
+Request deletion of your information
+
+You also have the right to:
+
+Access: Obtain information about whether we hold any of your personal data.
+
+Rectification and Erasure: Request correction of inaccurate data or deletion of unnecessary data.
+
+Portability: Receive the personal data you provided in a portable format.
+
+Lodge a Complaint: File a complaint with a Data Protection Authority. Gamer Stash’s supervisory authority is in Ukraine.
+
+Contact
+
+Gamer Stash is the Data Controller.
+
+You can contact our DPO at: gam3rstashinfo@gmail.com
+
+Data Protection Officer – Gamer Stash – Ludwig Svoboda Avenue 51A, Kharkiv, Ukraine
