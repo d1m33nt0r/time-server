@@ -18,6 +18,25 @@ https.createServer(options, app).listen(443, () => {
 });
 
 
+app.get('/get-time', (req, res) => {
+  const unixTimestamp = Math.floor(Date.now() / 1000);
+  res.json({ unixTimestamp });
+});
+
+
+app.get('/privacy-policy', (req, res) => {
+    const filePath = './privacy-policy.txt';
+    fs.readFile(filePath, 'utf8', (err, data) => {
+        if (err) {
+            console.error('Error reading privacy-policy.txt file:', err);
+            res.status(500).send('Error reading privacy-policy.txt file');
+        } else {
+            res.type('text/plain');
+            res.send(data);
+        }
+    });
+});
+
 app.get('/app-ads.txt', (req, res) => {
     const filePath = './app-ads.txt';
     fs.readFile(filePath, 'utf8', (err, data) => {
