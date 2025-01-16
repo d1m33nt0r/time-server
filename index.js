@@ -16,3 +16,17 @@ app.get('/', (req, res) => {
 https.createServer(options, app).listen(443, () => {
     console.log('Server running on https://cupforcetime.pp.ua');
 });
+
+
+app.get('/app-ads.txt', (req, res) => {
+    const filePath = './app-ads.txt';
+    fs.readFile(filePath, 'utf8', (err, data) => {
+        if (err) {
+            console.error('Error reading app-ads.txt file:', err);
+            res.status(500).send('Error reading app-ads.txt file');
+        } else {
+            res.type('text/plain');
+            res.send(data);
+        }
+    });
+});
